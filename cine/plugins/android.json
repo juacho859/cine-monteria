@@ -9,6 +9,9 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.cinenaar.cine"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.cinenaar.cine"
         }
     },
     "dependent_plugins": {}
